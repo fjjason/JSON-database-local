@@ -14,7 +14,7 @@ import java.io.BufferedReader;
     import com.google.gson.JsonObject;
     import com.google.gson.JsonParser;
 
-    public class json_data {
+    public class json_db {
         public static void main(String args[]) throws Exception {
             //open file, we will use it like a SQL database
             
