@@ -12,6 +12,8 @@ https://repo1.maven.org/maven2/com/google/code/gson/gson/2.8.2/
 
 
 3. EXAMPLE STDIN:
+
+
 add {"id":1,"last":"Jason","first":"Chen","major":"Computer Science","address":{"city":"San Jose","state":"CA"}}
 
 //saves the JSON object to database file
